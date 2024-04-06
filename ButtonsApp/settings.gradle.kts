@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ButtonsApp"
+rootProject.name = "ButtonsApp2"
 include(":app")
+ 
